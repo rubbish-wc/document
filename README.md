@@ -1,2 +1,2 @@
 # document
-Document Repository
+Document Repository for rubbish-wc
